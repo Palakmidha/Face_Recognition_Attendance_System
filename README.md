@@ -39,3 +39,16 @@ Requirements for the project:
 - After taking the image sample, go back and then we have to click the Train Data button. It takes a few seconds to train the machine for the images taken by clicking the Take Image button and creating a classifier.xml file and store in the data folder.
 - Now all initial setups are done. By clicking the Detect Face button camera of the running machine is opened again. If the system recognizes the face, then Id, roll number, department and Name of person are shown on Image.
 - After quitting it, attendance of person will be stored in the Attendance folder as CSV file with name, id, department, roll number, date, and time and it is also available in the Attendance window.
+
+![image](https://user-images.githubusercontent.com/78557067/170825262-7daf81d0-9e4c-45cb-9d89-cd41367d2ee2.png)
+
+![image](https://user-images.githubusercontent.com/78557067/170825303-e9cff908-9c0e-4a93-a992-4e8d8322b52c.png)
+
+![image](https://user-images.githubusercontent.com/78557067/170825324-d5de8a1b-4494-474d-88b5-09c349b3e7c2.png)
+
+![image](https://user-images.githubusercontent.com/78557067/170825340-fe319c6a-19e6-4af8-9310-2562ff1e793f.png)
+
+![image](https://user-images.githubusercontent.com/78557067/170825397-c498af7d-fe23-4c2e-b809-98b7a8bf8c7e.png)
+
+
+
